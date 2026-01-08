@@ -23,3 +23,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,searchgpt.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,x.ai
+# IP checker
+DOMAIN-SUFFIX,2ip.io
