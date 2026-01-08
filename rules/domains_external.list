@@ -1,27 +1,3 @@
-# youtube
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,i.ytimg.com
-DOMAIN-SUFFIX,i9.ytimg.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube-ui.l.google.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,yt3.ggpht.com
-DOMAIN-SUFFIX,yt4.ggpht.com
-DOMAIN-SUFFIX,ytimg.l.google.com
-DOMAIN-SUFFIX,ytstatic.l.google.com
-# social
-DOMAIN-SUFFIX,ig.me
-DOMAIN-SUFFIX,ign.com
-# ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,searchgpt.com
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,x.ai
 # IP checker
 DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,radio-t.com
